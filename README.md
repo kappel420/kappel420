@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning DevOps stuffs. (Docker,K8s,Terraform,Jenkins)
+- 🔭 I’m currently working on web SNAKE game hosted on Google Cloud Platform.
+- 👀 I’m interested in Fighting Games.
+- 📫 How to reach me: www.kacpersolecki.tech
+
 <!--
 **kappel420/kappel420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
